@@ -8,4 +8,4 @@ For example: a file of the name **MANGA_01_V1.jpg** run with the following comma
 ```
 python mangarenamer.py -o -1 -P MANGA_ -S _V1
 ```
-will result in an output file of **000.jpg***
+will result in an output file of **000.jpg**.
